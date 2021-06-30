@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&family=Roboto:wght@300&display=swap');
+:root {
+    --main-bg-color: #efefef;
+    ;
+    --font-family1: 'Red Hat Text', sans-serif;
+    --font-family2: 'Roboto', sans-serif;
+}
+
+
+.btn {
+    margin-left: 200px;
+    border: 2px solid;
+    border-radius: 36px;
+    padding: 10px 42px 10px 42px;
+    font-size: 18px;
+    font-family: var(--font-family1);
+    background-color: #2ca438;
+    border-color: #2ca438;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #000f36;
+    border-color: #000f36;
+    color: white;
+}
+h1{
+    margin:-32px 661px 10px 180px;
+    font-size: 5rem;
+    color: #000f36;
+    font-family: var(--font-family1);
+    
+}
+
+.left img{
+height: 80vh;
+width: 50vw;
+}
+
+.right{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+  
+}
+.right p{
+    margin: 10px 20px 10px 130px;
+    font-size: 20px;
+}
+ h2{
+
+    margin: 20px 20px 10px 130px;
+    font-size: 30px;
+   
+}
+ h2:hover{
+
+ color: #2ca438;
+   
+}
+
+.right2 img{
+    height: 80vh;
+width: 48vw;
+margin-left: 147px;
+}
+.left2{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.left2 p{
+    margin: 10px 20px 10px 130px;
+    font-size: 20px;
+}
+.left2  h1{
+    margin:-32px 661px 10px 54px;
+    font-size: 4rem;
+    color: #000f36;
+    font-family: var(--font-family1);
+}
+
+.left3 img{
+    height: 80vh;
+    width: 50vw;
+    }
+    
+    .right3{
+        width: 40vw;
+        display: flex;
+        flex-direction: column;
+        margin-top: 90px;
+      
+    }
+    .right3 p{
+        margin: 10px 20px 10px 130px;
+        font-size: 20px;
+    }
+    .right3 h1{
+        margin: -32px 50px 10px 133px;
+        font-size: 3rem;
+        color: #000f36;
+        font-family: var(--font-family1);
+    }
+.right4 img{
+    height: 80vh;
+    width: 48vw;
+    margin-left: 147px;
+    }
+    
+    .left4{
+        width: 40vw;
+        display: flex;
+        flex-direction: column;
+        margin-top: 90px;
+      
+    }
+    .left4 p{
+        margin: 10px 20px 10px 130px;
+        font-size: 20px;
+    }
+    .left4 h1{
+        margin: -32px 50px 10px 133px;
+        font-size: 5rem;
+        color: #000f36;
+        font-family: var(--font-family1);
+    }
+    input{
+        padding:20px 198px 20px 10px;
+        margin: 8px;
+      
+    }
+    textarea{
+        padding:20px 457px 20px 10px;
+        margin: 8px;
+   
+    }
+    
+    
